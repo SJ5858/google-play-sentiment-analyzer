@@ -1,2 +1,2 @@
-# google-play-sentiment-analyzer
-nalyze sentiment of Google Play Store reviews"
+git clone https://github.com/yourusername/google-play-sentiment-analyzer.git
+cd google-play-sentiment-analyzer
